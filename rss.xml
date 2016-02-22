@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dappled Things]]></title>
+        <description><![CDATA[Dappled Things]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Feb 2016 14:49:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AI Websites That Design Themselves]]></title>
+            <description><![CDATA[<article><h1>AI Websites That Design Themselves</h1><p>This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3987e9b41b03750da15a51e9e9a013655d77a0d.png"></article>]]></description>
+            <link>https://thegrid.io/</link>
+            <guid isPermaLink="false">47eb4e3e-c8a2-4d3e-aa7e-230f534ffed5</guid>
+            <pubDate>Mon, 22 Feb 2016 14:49:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
